@@ -1,0 +1,1 @@
+Aquí van las notas sobre las competencias de hacking
