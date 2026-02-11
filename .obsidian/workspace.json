@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/06 - General Skills 2/Magikarp Ground Mission.md",
+                "file": "picoCTF/06 - General Skills 2/First Find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magikarp Ground Mission"
+              "title": "First Find"
             }
           }
         ],
@@ -228,8 +228,11 @@
   },
   "active": "29f9f921c36a5be2",
   "lastOpenFiles": [
-    "picoCTF/06 - General Skills 2/Tab, Tab, Attack.md",
+    "picoCTF/06 - General Skills 2/Big zip.md",
+    "picoCTF/06 - General Skills 2/First Find.md",
+    "picoCTF/06 - General Skills 2/repetitions.md",
     "picoCTF/06 - General Skills 2/Magikarp Ground Mission.md",
+    "picoCTF/06 - General Skills 2/Tab, Tab, Attack.md",
     "picoCTF/06 - General Skills 2/useless.md",
     "picoCTF/06 - General Skills 2/Static ain't always noise.md",
     "picoCTF/06 - General Skills 2/Wave a flag.md",
@@ -255,7 +258,6 @@
     "Sin nombre",
     "Sin título.md",
     "picoCTF",
-    "Sin título 1.md",
-    "cree un enlace.md"
+    "Sin título 1.md"
   ]
 }
