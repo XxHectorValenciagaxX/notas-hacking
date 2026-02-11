@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - General Skills/Nice netcat....md",
+                "file": "picoCTF/06 - General Skills 2/Magikarp Ground Mission.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nice netcat..."
+              "title": "Magikarp Ground Mission"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/01 - General Skills/Lets Warm Up.md",
+                "file": "picoCTF/06 - General Skills 2/Magikarp Ground Mission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Lets Warm Up"
+              "title": "Enlaces entrantes de Magikarp Ground Mission"
             }
           },
           {
@@ -228,12 +228,21 @@
   },
   "active": "29f9f921c36a5be2",
   "lastOpenFiles": [
-    "picoCTF/01 - General Skills/Glitch Cat.md",
-    "picoCTF/01 - General Skills/Nice netcat....md",
+    "picoCTF/06 - General Skills 2/Tab, Tab, Attack.md",
+    "picoCTF/06 - General Skills 2/Magikarp Ground Mission.md",
+    "picoCTF/06 - General Skills 2/useless.md",
+    "picoCTF/06 - General Skills 2/Static ain't always noise.md",
+    "picoCTF/06 - General Skills 2/Wave a flag.md",
+    "picoCTF/06 - General Skills 2/strings it.md",
+    "picoCTF/06 - General Skills 2/Based.md",
+    "picoCTF/06 - General Skills 2",
+    "picoCTF/01 - General Skills/Sin nombre",
     "picoCTF/01 - General Skills/plumbing.md",
-    "picoCTF/01 - General Skills/what's a net cat.md",
-    "picoCTF/01 - General Skills/Warmed Up.md",
     "picoCTF/01 - General Skills/Obedient cat.md",
+    "picoCTF/01 - General Skills/Nice netcat....md",
+    "picoCTF/01 - General Skills/what's a net cat.md",
+    "picoCTF/01 - General Skills/Glitch Cat.md",
+    "picoCTF/01 - General Skills/Warmed Up.md",
     "picoCTF/01 - General Skills/First Grep.md",
     "picoCTF/01 - General Skills/Bases.md",
     "picoCTF/01 - General Skills/2warm.md",

@@ -23,6 +23,11 @@ grep CTF flag.txt
 
 picoCTF{digital_plumb3r_00da27CC}
 ## NOTAS ADICIONALES
+Otra solución es:
+
+```
+nc fickle-tempest.picoctf.net 55577 | grep CTF
+```
 
 ## REFERENCIAS
 

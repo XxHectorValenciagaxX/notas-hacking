@@ -26,4 +26,6 @@ picoCTF{g00d_k1tty!_n1c3_k1tty!_a94e7}
 ## NOTAS ADICIONALES
 
 - Cuando una lista de números enteros tiene la secuencia que empieza en 112, 105, 99, 111 ... y termina en 125 es la estructura clásica de una flag de CTF que se encuentra en código ASCII.
+
+- Con wget "url", se pueden descargar archivos de internet desde la terminal.
 ## REFERENCIAS
