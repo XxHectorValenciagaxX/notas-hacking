@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/06 - General Skills 2/First Find.md",
+                "file": "picoCTF/07 - General Skills 3/Serpentine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First Find"
+              "title": "Serpentine"
             }
           }
         ],
@@ -228,8 +228,19 @@
   },
   "active": "29f9f921c36a5be2",
   "lastOpenFiles": [
-    "picoCTF/06 - General Skills 2/Big zip.md",
+    "picoCTF/07 - General Skills 3/PW Crack 3.md",
+    "picoCTF/07 - General Skills 3/Serpentine.md",
+    "picoCTF/07 - General Skills 3/PW Crack 2.md",
+    "picoCTF/07 - General Skills 3/PW Crack 1.md",
+    "picoCTF/07 - General Skills 3/fixme2.py.md",
+    "picoCTF/07 - General Skills 3/fixme1.py.md",
+    "picoCTF/07 - General Skills 3/convertme.py.md",
+    "picoCTF/07 - General Skills 3/Codebook.md",
+    "picoCTF/07 - General Skills 3/runme.py.md",
+    "picoCTF/07 - General Skills 3/Super SSH.md",
     "picoCTF/06 - General Skills 2/First Find.md",
+    "picoCTF/07 - General Skills 3",
+    "picoCTF/06 - General Skills 2/Big zip.md",
     "picoCTF/06 - General Skills 2/repetitions.md",
     "picoCTF/06 - General Skills 2/Magikarp Ground Mission.md",
     "picoCTF/06 - General Skills 2/Tab, Tab, Attack.md",
@@ -246,18 +257,8 @@
     "picoCTF/01 - General Skills/what's a net cat.md",
     "picoCTF/01 - General Skills/Glitch Cat.md",
     "picoCTF/01 - General Skills/Warmed Up.md",
-    "picoCTF/01 - General Skills/First Grep.md",
-    "picoCTF/01 - General Skills/Bases.md",
-    "picoCTF/01 - General Skills/2warm.md",
-    "picoCTF/01 - General Skills/Lets Warm Up.md",
-    "plantilla.md",
-    "Lets Warm Up 1.md",
-    "README.md",
-    "picoCTF/Lets Warm Up.md",
     "picoCTF/01 - General Skills",
     "Sin nombre",
-    "Sin título.md",
-    "picoCTF",
-    "Sin título 1.md"
+    "picoCTF"
   ]
 }
