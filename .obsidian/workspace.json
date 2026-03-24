@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF2026 - Compete - Polaris/Timeline 1.md",
+                "file": "picoCTF/16 - Forensics 4/6 - Operation Oni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timeline 1"
+              "title": "6 - Operation Oni"
             }
           }
         ],
@@ -214,6 +214,14 @@
   },
   "active": "ce63eebb94692edc",
   "lastOpenFiles": [
+    "picoCTF/16 - Forensics 4/5 - Operation Orchid.md",
+    "picoCTF/16 - Forensics 4/4 - Sleuthkit Apprentice.md",
+    "picoCTF/16 - Forensics 4/3 - Sleuthkit Intro.md",
+    "picoCTF/16 - Forensics 4/2 - Disk, disk, sleuth!.md",
+    "picoCTF/16 - Forensics 4/1 - Milkslap.md",
+    "picoCTF/16 - Forensics 4/6 - Operation Oni.md",
+    "PicoCTF2026 - Compete - Polaris/Timeline 1.md",
+    "picoCTF/16 - Forensics 4",
     "PicoCTF2026 - Compete - Polaris/Sql Map1.md",
     "PicoCTF2026 - Compete - Polaris/Rogue Tower.md",
     "PicoCTF2026 - Compete - Polaris/Forensics Git 2.md",
@@ -226,7 +234,6 @@
     "PicoCTF2026 - Compete - Polaris/Bytemancy 1.md",
     "picoCTF/Tarea2 - Web/10 - WebDecode.md",
     "adawdaw/Soluciones Hector/Web Exploitation - Sql Map1.md",
-    "PicoCTF2026 - Compete - Polaris/Timeline 1.md",
     "PicoCTF2026 - Compete - Polaris/Small Trouble.md",
     "PicoCTF2026 - Compete - Polaris/Forensics Git 1.md",
     "PicoCTF2026 - Compete - Polaris",
@@ -237,18 +244,11 @@
     "adawdaw/Soluciones Hector/Retos del chector.zip",
     "adawdaw/Soluciones Hector/Web Exploitation - Fool the Lockout.zip",
     "adawdaw/Soluciones Hector/Web Exploitation - Sql Map1 1.md",
-    "adawdaw/Soluciones Hector/Web Exploitation - Secret Box 1.md",
-    "adawdaw/Soluciones Hector/Web Exploitation - Old Sessions 1.md",
-    "adawdaw/Soluciones Hector/sdfwd.md",
-    "adawdaw/Soluciones Hector/Sin título.md",
-    "adawdaw/Sin título.md",
     "adawdaw/Soluciones Hector",
     "adawdaw/Sin nombre",
-    "adawdaw/Bienvenido.md",
     "adawdaw",
     "picoCTF/15 - Forensics 3",
     "picoCTF/14 - Forensics 2",
-    "picoCTF/13 - Forensics 1",
-    "picoCTF/Tarea2 - Web"
+    "picoCTF/13 - Forensics 1"
   ]
 }
