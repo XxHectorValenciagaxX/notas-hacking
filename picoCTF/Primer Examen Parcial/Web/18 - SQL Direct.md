@@ -13,7 +13,7 @@ picoCTF{L3arN_S0m3_5qL_t0d4Y_73b0678f}
 ## NOTAS ADICIONALES
 
 ## REFERENCIAS
-- https://www.base64decode.org/
+
 
 
 
