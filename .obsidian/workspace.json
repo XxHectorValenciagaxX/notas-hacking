@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Primer Examen Parcial/Web/18 - SQL Direct.md",
+                "file": "picoCTF/Tarea 04 - Forensics/9 - Ph4nt0m 1ntrud3r.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18 - SQL Direct"
+              "title": "9 - Ph4nt0m 1ntrud3r"
             }
           }
         ],
@@ -214,9 +214,21 @@
   },
   "active": "ce63eebb94692edc",
   "lastOpenFiles": [
+    "picoCTF/Tarea 04 - Forensics/8 - RED.md",
+    "picoCTF/Tarea 04 - Forensics/9 - Ph4nt0m 1ntrud3r.md",
+    "picoCTF/Tarea 04 - Forensics/6 - CanYouSee.md",
+    "picoCTF/Tarea 04 - Forensics/7 - Secret of the Polyglot.md",
+    "picoCTF/Tarea2 - Web/8 - SQLiLite.md",
+    "picoCTF/Tarea2 - Web/9 - Unminify.md",
+    "picoCTF/Tarea 04 - Forensics/5 - Scan Surprise.md",
+    "picoCTF/Tarea 04 - Forensics/2 - St3g0.md",
+    "picoCTF/Tarea 04 - Forensics/3 - Redaction gone wrong.md",
+    "picoCTF/Tarea 04 - Forensics/4 - hideme.md",
+    "picoCTF/Tarea 04 - Forensics/1 - information.md",
+    "picoCTF/Primer Examen Parcial/Web/18 - SQL Direct.md",
+    "picoCTF/Tarea 04 - Forensics",
     "picoCTF/Primer Examen Parcial/Web/17 - findme.md",
     "picoCTF/Primer Examen Parcial/Web/16 - Java Code Analysis!!.md",
-    "picoCTF/Primer Examen Parcial/Web/18 - SQL Direct.md",
     "picoCTF/Primer Examen Parcial/Web/15 - SSTI2.md",
     "picoCTF/Primer Examen Parcial/Web/14 - Cookie Monster Secret Recipe.md",
     "picoCTF/Primer Examen Parcial/Web/13 - head-dump.md",
@@ -230,25 +242,13 @@
     "picoCTF/Primer Examen Parcial/General Skills/5 - HashingJobApp.md",
     "picoCTF/Primer Examen Parcial/General Skills/6 - dont-you-love-banners.md",
     "picoCTF/Primer Examen Parcial/General Skills/4 - Rust fixme 3.md",
-    "picoCTF/Primer Examen Parcial/General Skills/3 - Rust fixme 2.md",
-    "picoCTF/Primer Examen Parcial/General Skills/2 - Rust fixme 1.md",
-    "picoCTF/Primer Examen Parcial/General Skills/1 - FANTASY CTF.md",
-    "picoCTF/16 - Forensics 4/6 - Operation Oni.md",
     "picoCTF/Primer Examen Parcial/General Skills",
     "picoCTF/Primer Examen Parcial",
-    "picoCTF/16 - Forensics 4/5 - Operation Orchid.md",
-    "picoCTF/16 - Forensics 4/4 - Sleuthkit Apprentice.md",
-    "picoCTF/16 - Forensics 4/3 - Sleuthkit Intro.md",
-    "picoCTF/16 - Forensics 4/2 - Disk, disk, sleuth!.md",
-    "picoCTF/16 - Forensics 4/1 - Milkslap.md",
-    "PicoCTF2026 - Compete - Polaris/Timeline 1.md",
     "picoCTF/16 - Forensics 4",
-    "PicoCTF2026 - Compete - Polaris/Sql Map1.md",
     "PicoCTF2026 - Compete - Polaris",
     "adawdaw/Soluciones Hector/Retos del chector.zip",
     "adawdaw/Soluciones Hector/Web Exploitation - Fool the Lockout.zip",
     "adawdaw/Soluciones Hector",
-    "adawdaw/Sin nombre",
-    "adawdaw"
+    "adawdaw/Sin nombre"
   ]
 }
