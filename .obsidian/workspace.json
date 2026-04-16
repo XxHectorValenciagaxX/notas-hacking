@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/17 - Crypto 1/7 - waves over lambda.md",
+                "file": "picoCTF/Tarea 18 - Crypto 2/1 - rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 - waves over lambda"
+              "title": "1 - rsa-pop-quiz"
             }
           }
         ],
@@ -256,8 +256,12 @@
   },
   "active": "5dcd09d1d18187e7",
   "lastOpenFiles": [
-    "picoCTF/17 - Crypto 1/8 - interencdec.md",
+    "picoCTF/Tarea 04 - Forensics/1 - information.md",
+    "picoCTF/Tarea 18 - Crypto 2/1 - rsa-pop-quiz.md",
     "picoCTF/17 - Crypto 1/7 - waves over lambda.md",
+    "picoCTF/Sin nombre 1",
+    "picoCTF/Tarea 18 - Crypto 2",
+    "picoCTF/17 - Crypto 1/8 - interencdec.md",
     "picoCTF/17 - Crypto 1/6 - Tapping.md",
     "picoCTF/17 - Crypto 1/5 - la cifra de.md",
     "picoCTF/17 - Crypto 1/4 - Easy1.md",
@@ -275,7 +279,6 @@
     "picoCTF/Tarea 04 - Forensics/2 - St3g0.md",
     "picoCTF/Tarea 04 - Forensics/3 - Redaction gone wrong.md",
     "picoCTF/Tarea 04 - Forensics/4 - hideme.md",
-    "picoCTF/Tarea 04 - Forensics/1 - information.md",
     "picoCTF/Primer Examen Parcial/Web/18 - SQL Direct.md",
     "picoCTF/Tarea 04 - Forensics",
     "picoCTF/Primer Examen Parcial/Web/17 - findme.md",
@@ -283,14 +286,11 @@
     "picoCTF/Primer Examen Parcial/Web/15 - SSTI2.md",
     "picoCTF/Primer Examen Parcial/Web/14 - Cookie Monster Secret Recipe.md",
     "picoCTF/Primer Examen Parcial/Web/13 - head-dump.md",
-    "picoCTF/Primer Examen Parcial/Web/12 - SSTI1.md",
     "picoCTF/Primer Examen Parcial/Web",
     "picoCTF/Primer Examen Parcial/General Skills",
     "picoCTF/Primer Examen Parcial",
     "picoCTF/16 - Forensics 4",
     "PicoCTF2026 - Compete - Polaris",
-    "adawdaw/Soluciones Hector/Retos del chector.zip",
-    "adawdaw/Soluciones Hector/Web Exploitation - Fool the Lockout.zip",
-    "adawdaw/Soluciones Hector"
+    "adawdaw/Soluciones Hector/Retos del chector.zip"
   ]
 }
