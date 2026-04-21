@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 18 - Crypto 2/1 - rsa-pop-quiz.md",
+                "file": "picoCTF/19 - Crypto 3/4 - b00tl3gRSA3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - rsa-pop-quiz"
+              "title": "4 - b00tl3gRSA3"
             }
           }
         ],
@@ -256,12 +256,17 @@
   },
   "active": "5dcd09d1d18187e7",
   "lastOpenFiles": [
-    "picoCTF/Tarea 04 - Forensics/1 - information.md",
+    "picoCTF/19 - Crypto 3/3 - b00tl3gRSA2.md",
+    "picoCTF/19 - Crypto 3/4 - b00tl3gRSA3.md",
+    "picoCTF/19 - Crypto 3/1 - Mini RSA.md",
+    "picoCTF/19 - Crypto 3/2 - Mind your Ps and Qs.md",
+    "picoCTF/17 - Crypto 1/8 - interencdec.md",
     "picoCTF/Tarea 18 - Crypto 2/1 - rsa-pop-quiz.md",
+    "picoCTF/19 - Crypto 3",
+    "picoCTF/Tarea 04 - Forensics/1 - information.md",
     "picoCTF/17 - Crypto 1/7 - waves over lambda.md",
     "picoCTF/Sin nombre 1",
     "picoCTF/Tarea 18 - Crypto 2",
-    "picoCTF/17 - Crypto 1/8 - interencdec.md",
     "picoCTF/17 - Crypto 1/6 - Tapping.md",
     "picoCTF/17 - Crypto 1/5 - la cifra de.md",
     "picoCTF/17 - Crypto 1/4 - Easy1.md",
@@ -282,15 +287,10 @@
     "picoCTF/Primer Examen Parcial/Web/18 - SQL Direct.md",
     "picoCTF/Tarea 04 - Forensics",
     "picoCTF/Primer Examen Parcial/Web/17 - findme.md",
-    "picoCTF/Primer Examen Parcial/Web/16 - Java Code Analysis!!.md",
-    "picoCTF/Primer Examen Parcial/Web/15 - SSTI2.md",
-    "picoCTF/Primer Examen Parcial/Web/14 - Cookie Monster Secret Recipe.md",
-    "picoCTF/Primer Examen Parcial/Web/13 - head-dump.md",
     "picoCTF/Primer Examen Parcial/Web",
     "picoCTF/Primer Examen Parcial/General Skills",
     "picoCTF/Primer Examen Parcial",
     "picoCTF/16 - Forensics 4",
-    "PicoCTF2026 - Compete - Polaris",
-    "adawdaw/Soluciones Hector/Retos del chector.zip"
+    "PicoCTF2026 - Compete - Polaris"
   ]
 }
