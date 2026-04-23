@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/19 - Crypto 3/4 - b00tl3gRSA3.md",
+                "file": "picoCTF/20 - Crypto 4/5 - Flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - b00tl3gRSA3"
+              "title": "5 - Flags"
             }
           }
         ],
@@ -256,8 +256,14 @@
   },
   "active": "5dcd09d1d18187e7",
   "lastOpenFiles": [
-    "picoCTF/19 - Crypto 3/3 - b00tl3gRSA2.md",
+    "picoCTF/20 - Crypto 4/4 - ReadMyCert.md",
+    "picoCTF/20 - Crypto 4/5 - Flags.md",
+    "picoCTF/20 - Crypto 4/3 - HideToSee.md",
+    "picoCTF/20 - Crypto 4/2 - basic-mod1.md",
+    "picoCTF/20 - Crypto 4/1 - Pixelated.md",
     "picoCTF/19 - Crypto 3/4 - b00tl3gRSA3.md",
+    "picoCTF/20 - Crypto 4",
+    "picoCTF/19 - Crypto 3/3 - b00tl3gRSA2.md",
     "picoCTF/19 - Crypto 3/1 - Mini RSA.md",
     "picoCTF/19 - Crypto 3/2 - Mind your Ps and Qs.md",
     "picoCTF/17 - Crypto 1/8 - interencdec.md",
@@ -281,16 +287,10 @@
     "picoCTF/Tarea2 - Web/8 - SQLiLite.md",
     "picoCTF/Tarea2 - Web/9 - Unminify.md",
     "picoCTF/Tarea 04 - Forensics/5 - Scan Surprise.md",
-    "picoCTF/Tarea 04 - Forensics/2 - St3g0.md",
-    "picoCTF/Tarea 04 - Forensics/3 - Redaction gone wrong.md",
-    "picoCTF/Tarea 04 - Forensics/4 - hideme.md",
-    "picoCTF/Primer Examen Parcial/Web/18 - SQL Direct.md",
     "picoCTF/Tarea 04 - Forensics",
-    "picoCTF/Primer Examen Parcial/Web/17 - findme.md",
     "picoCTF/Primer Examen Parcial/Web",
     "picoCTF/Primer Examen Parcial/General Skills",
     "picoCTF/Primer Examen Parcial",
-    "picoCTF/16 - Forensics 4",
-    "PicoCTF2026 - Compete - Polaris"
+    "picoCTF/16 - Forensics 4"
   ]
 }
