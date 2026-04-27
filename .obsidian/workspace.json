@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/20 - Crypto 4/5 - Flags.md",
+                "file": "picoCTF/Tarea 04 - Crypto/10 - Vigenere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - Flags"
+              "title": "10 - Vigenere"
             }
           }
         ],
@@ -256,8 +256,19 @@
   },
   "active": "5dcd09d1d18187e7",
   "lastOpenFiles": [
-    "picoCTF/20 - Crypto 4/4 - ReadMyCert.md",
+    "picoCTF/Tarea 04 - Crypto/09 - substitution2.md",
+    "picoCTF/Tarea 04 - Crypto/10 - Vigenere.md",
+    "picoCTF/Tarea 04 - Crypto/08 - substitution1.md",
+    "picoCTF/Tarea 04 - Crypto/07 - substitution0.md",
+    "picoCTF/Tarea 04 - Crypto/06 - rail-fence.md",
+    "picoCTF/Tarea 04 - Crypto/05 - morse-code.md",
+    "picoCTF/Tarea 04 - Crypto/04 - hashcrack.md",
+    "picoCTF/Tarea 04 - Crypto/03 - EVEN RSA CAN BE BROKEN.md",
+    "picoCTF/Tarea 04 - Crypto/02 - credstuff.md",
+    "picoCTF/Tarea 04 - Crypto/01 - Crack the Power.md",
     "picoCTF/20 - Crypto 4/5 - Flags.md",
+    "picoCTF/Tarea 04 - Crypto",
+    "picoCTF/20 - Crypto 4/4 - ReadMyCert.md",
     "picoCTF/20 - Crypto 4/3 - HideToSee.md",
     "picoCTF/20 - Crypto 4/2 - basic-mod1.md",
     "picoCTF/20 - Crypto 4/1 - Pixelated.md",
@@ -276,21 +287,10 @@
     "picoCTF/17 - Crypto 1/6 - Tapping.md",
     "picoCTF/17 - Crypto 1/5 - la cifra de.md",
     "picoCTF/17 - Crypto 1/4 - Easy1.md",
-    "picoCTF/17 - Crypto 1/3 - caesar.md",
-    "picoCTF/17 - Crypto 1/2 - 13.md",
-    "picoCTF/17 - Crypto 1/1 - The numbers.md",
-    "picoCTF/Tarea 04 - Forensics/9 - Ph4nt0m 1ntrud3r.md",
     "picoCTF/17 - Crypto 1",
-    "picoCTF/Tarea 04 - Forensics/8 - RED.md",
-    "picoCTF/Tarea 04 - Forensics/6 - CanYouSee.md",
-    "picoCTF/Tarea 04 - Forensics/7 - Secret of the Polyglot.md",
-    "picoCTF/Tarea2 - Web/8 - SQLiLite.md",
-    "picoCTF/Tarea2 - Web/9 - Unminify.md",
-    "picoCTF/Tarea 04 - Forensics/5 - Scan Surprise.md",
     "picoCTF/Tarea 04 - Forensics",
     "picoCTF/Primer Examen Parcial/Web",
     "picoCTF/Primer Examen Parcial/General Skills",
-    "picoCTF/Primer Examen Parcial",
-    "picoCTF/16 - Forensics 4"
+    "picoCTF/Primer Examen Parcial"
   ]
 }
