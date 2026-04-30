@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 04 - Crypto/10 - Vigenere.md",
+                "file": "picoCTF/21 - Reversing/5 - vault-door-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Vigenere"
+              "title": "5 - vault-door-5"
             }
           }
         ],
@@ -256,8 +256,14 @@
   },
   "active": "5dcd09d1d18187e7",
   "lastOpenFiles": [
-    "picoCTF/Tarea 04 - Crypto/09 - substitution2.md",
+    "picoCTF/21 - Reversing/4 - vault-door-4.md",
+    "picoCTF/21 - Reversing/5 - vault-door-5.md",
+    "picoCTF/21 - Reversing/3 - vault-door-3.md",
+    "picoCTF/21 - Reversing/2 - vault-door-1.md",
+    "picoCTF/21 - Reversing/1 - vault-door-training.md",
     "picoCTF/Tarea 04 - Crypto/10 - Vigenere.md",
+    "picoCTF/21 - Reversing",
+    "picoCTF/Tarea 04 - Crypto/09 - substitution2.md",
     "picoCTF/Tarea 04 - Crypto/08 - substitution1.md",
     "picoCTF/Tarea 04 - Crypto/07 - substitution0.md",
     "picoCTF/Tarea 04 - Crypto/06 - rail-fence.md",
@@ -280,17 +286,11 @@
     "picoCTF/17 - Crypto 1/8 - interencdec.md",
     "picoCTF/Tarea 18 - Crypto 2/1 - rsa-pop-quiz.md",
     "picoCTF/19 - Crypto 3",
-    "picoCTF/Tarea 04 - Forensics/1 - information.md",
-    "picoCTF/17 - Crypto 1/7 - waves over lambda.md",
     "picoCTF/Sin nombre 1",
     "picoCTF/Tarea 18 - Crypto 2",
-    "picoCTF/17 - Crypto 1/6 - Tapping.md",
-    "picoCTF/17 - Crypto 1/5 - la cifra de.md",
-    "picoCTF/17 - Crypto 1/4 - Easy1.md",
     "picoCTF/17 - Crypto 1",
     "picoCTF/Tarea 04 - Forensics",
     "picoCTF/Primer Examen Parcial/Web",
-    "picoCTF/Primer Examen Parcial/General Skills",
-    "picoCTF/Primer Examen Parcial"
+    "picoCTF/Primer Examen Parcial/General Skills"
   ]
 }
