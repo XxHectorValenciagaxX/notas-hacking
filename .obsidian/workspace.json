@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/21 - Reversing/5 - vault-door-5.md",
+                "file": "picoCTF/22 - Reversing 2/6 - Picker IV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - vault-door-5"
+              "title": "6 - Picker IV"
             }
           }
         ],
@@ -256,8 +256,15 @@
   },
   "active": "5dcd09d1d18187e7",
   "lastOpenFiles": [
-    "picoCTF/21 - Reversing/4 - vault-door-4.md",
+    "picoCTF/22 - Reversing 2/4 - Picker II.md",
+    "picoCTF/22 - Reversing 2/3 - Picker I.md",
+    "picoCTF/22 - Reversing 2/5 - Picker III.md",
+    "picoCTF/22 - Reversing 2/6 - Picker IV.md",
+    "picoCTF/22 - Reversing 2/2 - Timer.md",
+    "picoCTF/22 - Reversing 2/1 - Safe Opener 2.md",
     "picoCTF/21 - Reversing/5 - vault-door-5.md",
+    "picoCTF/22 - Reversing 2",
+    "picoCTF/21 - Reversing/4 - vault-door-4.md",
     "picoCTF/21 - Reversing/3 - vault-door-3.md",
     "picoCTF/21 - Reversing/2 - vault-door-1.md",
     "picoCTF/21 - Reversing/1 - vault-door-training.md",
@@ -278,19 +285,12 @@
     "picoCTF/20 - Crypto 4/3 - HideToSee.md",
     "picoCTF/20 - Crypto 4/2 - basic-mod1.md",
     "picoCTF/20 - Crypto 4/1 - Pixelated.md",
-    "picoCTF/19 - Crypto 3/4 - b00tl3gRSA3.md",
     "picoCTF/20 - Crypto 4",
-    "picoCTF/19 - Crypto 3/3 - b00tl3gRSA2.md",
-    "picoCTF/19 - Crypto 3/1 - Mini RSA.md",
-    "picoCTF/19 - Crypto 3/2 - Mind your Ps and Qs.md",
-    "picoCTF/17 - Crypto 1/8 - interencdec.md",
-    "picoCTF/Tarea 18 - Crypto 2/1 - rsa-pop-quiz.md",
     "picoCTF/19 - Crypto 3",
     "picoCTF/Sin nombre 1",
     "picoCTF/Tarea 18 - Crypto 2",
     "picoCTF/17 - Crypto 1",
     "picoCTF/Tarea 04 - Forensics",
-    "picoCTF/Primer Examen Parcial/Web",
-    "picoCTF/Primer Examen Parcial/General Skills"
+    "picoCTF/Primer Examen Parcial/Web"
   ]
 }
