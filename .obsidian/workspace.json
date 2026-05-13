@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/22 - Reversing 2/6 - Picker IV.md",
+                "file": "picoCTF/23 - Reversing 3/3 - asm3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 - Picker IV"
+              "title": "3 - asm3"
             }
           }
         ],
@@ -256,10 +256,14 @@
   },
   "active": "5dcd09d1d18187e7",
   "lastOpenFiles": [
+    "picoCTF/23 - Reversing 3/2 - asm2.md",
+    "picoCTF/23 - Reversing 3/3 - asm3.md",
+    "picoCTF/23 - Reversing 3/1 - asm1.md",
+    "picoCTF/22 - Reversing 2/6 - Picker IV.md",
+    "picoCTF/23 - Reversing 3",
     "picoCTF/22 - Reversing 2/4 - Picker II.md",
     "picoCTF/22 - Reversing 2/3 - Picker I.md",
     "picoCTF/22 - Reversing 2/5 - Picker III.md",
-    "picoCTF/22 - Reversing 2/6 - Picker IV.md",
     "picoCTF/22 - Reversing 2/2 - Timer.md",
     "picoCTF/22 - Reversing 2/1 - Safe Opener 2.md",
     "picoCTF/21 - Reversing/5 - vault-door-5.md",
@@ -282,15 +286,11 @@
     "picoCTF/20 - Crypto 4/5 - Flags.md",
     "picoCTF/Tarea 04 - Crypto",
     "picoCTF/20 - Crypto 4/4 - ReadMyCert.md",
-    "picoCTF/20 - Crypto 4/3 - HideToSee.md",
-    "picoCTF/20 - Crypto 4/2 - basic-mod1.md",
-    "picoCTF/20 - Crypto 4/1 - Pixelated.md",
     "picoCTF/20 - Crypto 4",
     "picoCTF/19 - Crypto 3",
     "picoCTF/Sin nombre 1",
     "picoCTF/Tarea 18 - Crypto 2",
     "picoCTF/17 - Crypto 1",
-    "picoCTF/Tarea 04 - Forensics",
-    "picoCTF/Primer Examen Parcial/Web"
+    "picoCTF/Tarea 04 - Forensics"
   ]
 }
